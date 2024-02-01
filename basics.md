@@ -9,7 +9,7 @@ const mixed_arry = ["ant",1.2,{},[1,2,3]];
 ### Object declaration and Initialization
 ```javascript
 const person = {name:'David', age:30};
-const myobj = new Object();
+const obj = new Object();
 
 Accessing properties:
 person.name
