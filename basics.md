@@ -21,7 +21,7 @@ person.city = "New York";
 Removing property:
 delete person.age;
 ```
-### DOM changing and html elements changing
+### DOM Finding and html elements changing
 Document Object Model is a programming interface for web document.
 ```javascript
 const inputText = document.getElementById("username").value;
